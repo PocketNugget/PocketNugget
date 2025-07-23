@@ -19,7 +19,7 @@
 ### `> whoami`
 
 <h1 align="left">Goben Diego Constantino Aguirre</h1>
-<h3 align="left">a.k.a. PocketNugget</h2>
+<h3 align="left">a.k.a. PocketNugget</h3>
 
 <img align="right" alt="Nugget" src="nugg.png" width="500" />
 
@@ -27,7 +27,9 @@
 
 **📖 Professional Summary**
 
-I'm a Computer Systems Engineering student at UDLAP with a passion for cybersecurity and software development. As President of the Hackztecs cybersecurity organization, I lead teams in Capture the Flag (CTF) competitions and security research. My expertise spans across cybersecurity, AI, software engineering, and infrastructure development.
+* I'm a Computer Systems Engineering student at UDLAP with a passion for cybersecurity and software development. 
+* As President of the Hackztecs cybersecurity organization, I lead teams in Capture the Flag (CTF) competitions and security research. 
+* My expertise spans across cybersecurity, AI, software engineering, and infrastructure development.
 
 **🏆 Specialties**
 * 🛡️ Cybersecurity Specialist
@@ -57,7 +59,7 @@ I'm a Computer Systems Engineering student at UDLAP with a passion for cybersecu
 
 **Tools & Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,nodejs,react,vscode,kali,fedora,ubuntu,raspberrypi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,nodejs,react,vscode,kali,redhat,ubuntu,raspberrypi&theme=dark)](https://skillicons.dev)
 
 ### `> history | grep "work"`
 
