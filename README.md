@@ -63,7 +63,7 @@
 
 ### `> history | grep "work"`
 
-* **Junior SOC Analyst @ TBSeK** (Apr 2025 - Present)
+* **EDR Analyst @ TBSeK** (Apr 2025 - Present)
     * Monitor and analyze security events using SIEM tools to detect and respond to potential threats.
     * Conduct initial triage of security incidents, escalating as necessary.
 * **Software Engineer Intern @ T-Systems** (Apr 2024 - Jul 2024)
